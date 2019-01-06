@@ -8,6 +8,7 @@ Phần mềm:
 - Ngôn ngữ lập trình: Python2
 - Package: Tkinter: thiết kế giao diện
          Pygame.mixer.music: thực hiện xử lý các chức năng Play, Pause, Next, Previous, Replay(10), Mute, +, -, Shutdown(X)
+
 Phần cứng:
 - 1 Kit Raspberry Pi 2
 - 1 Touchscreen LCD 3.5.inch
